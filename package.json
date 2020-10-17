@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "fossilz"
+  },
+  "bugs": {
+    "url": "https://github.com/fossilz/verint-swt/issues"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "description": "Javascript library to generate Verint SWT for use in Web Service. Supports WFO 15.2",
+  "homepage": "https://github.com/fossilz/verint-swt",
+  "keywords": [
+    "verint",
+    "wfo",
+    "swt",
+    "web",
+    "service",
+    "authentication",
+    "security"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@fossilz/verint-swt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fossilz/verint-swt.git"
+  },
+  "version": "1.0.0"
+}
